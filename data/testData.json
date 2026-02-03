@@ -1,0 +1,15 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "products": {
+    "mainItem": "Sauce Labs Backpack"
+  },
+  "InfoCheckOut":{
+    "name":"John",
+    "lastName":"Doe",
+    "psCode":"3500s"
+  }
+
+}
