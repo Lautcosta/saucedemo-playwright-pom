@@ -42,6 +42,3 @@ npx playwright test --headed
 npx playwright show-report
 ```
 
-## 📊 Evidencias
-
-El framework genera reportes HTML con grabaciones de video de los tests, permitiendo una auditoría completa de la ejecución.
